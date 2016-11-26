@@ -13,6 +13,7 @@ public class Test {
 		System.out.println("d");
 		System.out.println("e");
 		System.out.println("f");
+		System.out.println("g");
 		Collection<String> coll = new HashSet<String>();
 		coll.add("asdf");
 		coll.add(null);
