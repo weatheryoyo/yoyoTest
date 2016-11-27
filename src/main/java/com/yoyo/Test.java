@@ -16,6 +16,7 @@ public class Test {
 		System.out.println("g");
 		System.out.println("h");
 		System.out.println("i");
+		System.out.println("j");
 		Collection<String> coll = new HashSet<String>();
 		coll.add("asdf");
 		coll.add(null);
